@@ -1,0 +1,205 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+
+}
+.img{
+	background: url('../img/hero.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+#menu_area{
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	transition: background 0.5s;
+	padding: 0 60px;
+	z-index: 9999;
+}
+.navbar{
+	 width: 100%!important;
+	 padding: 30px 0;
+	 position: relative;
+}
+.nav-bar{
+    background: transparent!important;
+   
+}
+.navbar-brand .logo{
+
+}
+.navbar-brand .logo .fontawesome{
+    color: white;
+    font-size: 28px;
+    transition: all 0.3s;
+    /* transform: rotate(90deg); */
+}
+.navbar-brand .logo .pagefly{
+    margin: 0 3px;
+}
+.navbar-brand .logo .pagefly h3{
+    margin: 0;
+    color: white;
+    font-weight: 400;
+    transition: all 0.3s;
+    font-size: 28px;
+    /* margin-right: -23px; */
+}
+
+.nav-link{
+    color: white!important;
+    padding: .5rem 1.4rem!important;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 24px;
+    transition: all 0.3s;
+}
+.nav-link:hover{
+    color: #5f67ff!important;
+}
+
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 0 35px;
+}
+.button{}
+.button .btnnn{
+    height: 50px;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-size: 15px;
+    background: #5f67ff;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+.button .btnnn:hover{
+    color: #fff;
+    background: #464cc5;
+}
+#menu_area.cus_menu{
+	background: white;
+}
+#menu_area.cus_menu .nav-link{
+	color: #333!important;
+}
+#menu_area.cus_menu .nav-link:hover{
+	color: #5f67ff!important;
+}
+#menu_area.cus_menu .navbar-brand .pagefly h3{
+	color: #464cc5!important;
+}
+#menu_area.cus_menu .navbar-brand .fontawesome{
+	color: #464cc5!important;
+}
+#menu_area.cus_menu .navbar{
+	padding: 10px 0!important;
+}
+/* #menu_area #menu_area #menu_area #menu_area v #menu_area #menu_area #menu_area #menu_area */
+/* #menu_area #menu_area #menu_area #menu_area v #menu_area #menu_area #menu_area #menu_area */
+/* #menu_area #menu_area #menu_area #menu_area v #menu_area #menu_area #menu_area #menu_area */
+
+
+
+/* 
+<!-- hero_section hero_section hero_section hero_section hero_section hero_section hero_section -->
+<!-- hero_section hero_section hero_section hero_section hero_section hero_section hero_section -->
+<!-- hero_section hero_section hero_section hero_section hero_section hero_section hero_section --> */
+.hero_section{
+	position: absolute;
+	/* z-index: -9; */
+	top: 90%;
+	text-align: center;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.hero_section .content_hero{}
+.hero_section .content_hero h1{
+    color: white;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 42px;
+    padding-bottom: 30px;
+}
+.hero_section .content_hero .btnnn{
+    height: 50px;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-size: 15px;
+    background: #5f67ff;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    transition: all 0.3s linear;
+}
+.hero_section .content_hero .btnnn:hover{
+        background-color: #464cc5;
+}
+.hero_section .hero_img{}
+.hero_section .hero_img img{}
+/* heroe section end end end end end */
+
+
+
+/* Trusted and loved by Trusted and loved by Trusted and loved by */
+/* Trusted and loved by Trusted and loved by Trusted and loved by */
+.trusted_section{
+	margin-top: 250px;
+}
+
+/* .carousel-control-next{
+	opacity: 1!important;
+	text-decoration: none!important;
+}
+.carousel-control-prev{
+	opacity: 1!important;
+	text-decoration: none!important;
+}
+.carousel-control-next, .carousel-control-prev:hover{}
+.carousel-control-prev-icon{
+	background: none!important;
+    color: white;
+    padding-left: -185px;
+    font-size: 12px;
+    background: black!important;
+    display: flex;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    opacity: 1!important;
+}
+.carousel-control-next-icon{
+	background: none!important;
+    color: white;
+    padding-left: 180px;
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 12px;
+
+    background: black!important;
+    display: flex;
+    justify-content: center;
+    opacity: 1!important;
+    align-items: center;
+
+}
+ */
+
+
+/* Trusted and loved by Trusted and loved by Trusted and loved by */
+/* Trusted and loved by Trusted and loved by Trusted and loved by */

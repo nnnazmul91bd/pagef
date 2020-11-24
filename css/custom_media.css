@@ -1,0 +1,146 @@
+@media (max-width: 1200px){
+	.nav-link {
+    padding: .5rem .5rem!important;
+    font-size: 14px;
+	   }
+	   .h2 {
+    
+    padding: 18px 100px 8px calc(50% - 460px);
+  
+}
+
+}
+
+@media (max-width: 767px){
+	.h2 h2{
+		font-size: 36px;
+	}
+	.h2{
+		 padding: 12px 60px 6px calc(50% - 254px);
+	}
+	.banner_section h1 {
+    padding-top: 50px;
+    font-size: 46px;
+    line-height: 30px;
+    
+}
+.banner_section h4 {
+   
+    padding-top: 40px;
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 600;
+    
+}
+.post_content{
+	text-align: center;
+	padding-right: 50px;
+    padding-left: 50px;
+}
+.post_content p{
+	font-size: 14px;
+}
+.join_content {
+    padding: 60px;
+    text-align: center;
+}
+.join_content h2 {
+    line-height: 29px;
+    max-width: 315px;
+    margin: auto;
+    padding-bottom: 18px;
+}
+.join_content p{
+	font-size: 14px;
+}
+.heading{
+	text-align: center;
+}
+.heading h1{
+	font-size: 46px;
+}
+.partner_content h4{
+	font-size: 17px;
+}
+.partner_content p{
+	font-size: 14px;
+	line-height: 30px;
+}
+.become_heading {
+	text-align: center;
+}
+.become_heading h1 {
+    margin: 0;
+    font-size: 28px;
+    line-height: 42px;
+    max-width: 316px;
+    margin: auto;
+}
+.becomepartner_content h1{
+	font-size: 72px;
+}
+.becomepartner_content h2{
+	font-size: 28px;
+	line-height: 45px;
+}
+.footer_content h3{
+	font-size: 18px;
+}
+
+}
+
+
+@media (max-width: 775px){
+	.navbar-brand img {
+    width: 120px;
+}
+	.footer_content {
+    text-align: center;
+}
+.becomepartner_content {
+    text-align: center;
+}
+.becomepartner_section {
+    padding: 60px 0;
+}
+
+
+.become_heading h1{
+	font-size: 25px;
+}
+.becomepartner_content h2 {
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.partner_img_1 .img1{
+	width: 52%;
+}
+
+.post_content {
+    text-align: center;
+    padding: 15px 20px;
+}
+.post_content img{
+	width: 90%;
+}
+.become_heading h1{
+	padding-bottom: 50px;
+}
+.heading h1 {
+    font-size: 36px;
+}
+.h2 {
+    padding: 12px 60px 6px calc(50% - 178px);
+}
+.copyright_left {
+    text-align: center;
+}
+.copyright_social {
+    
+    justify-content: center;
+    margin-top: 12px;
+}
+
+
+}
